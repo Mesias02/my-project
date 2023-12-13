@@ -1,0 +1,129 @@
+
+/*estilos ccs para los colores*/
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    width: 800px; /* Ancho del contenedor para una cuadrícula de 5x5 */
+    height: 400px; /* Altura del contenedor para una cuadrícula de 5x5 */
+  }
+  
+  .rectangulo {
+    width: 150px; /* Ancho del rectángulo mediano */
+    height: 50px; /* Altura del rectángulo mediano */
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+  }
+  .rectangulo1 {
+    background-color: #db3434;
+    border: 2px solid #db3434;
+  }
+  
+  .rectangulo2 {
+    background-color: #db7434;
+    border: 2px solid #db7434;
+  }
+  
+  .rectangulo3 {
+    background-color: #d0db34;
+    border: 2px solid #d0db34;
+  }
+  
+  .rectangulo4 {
+    background-color: #34db34;
+    border: 2px solid #34db34;
+  }
+  
+  .rectangulo5 {
+    background-color: #3460db;
+    border: 2px solid #3460db;
+  }
+  
+  .rectangulo6 {
+    background-color: #a334db;
+    border: 2px solid #a334db;
+  }
+  
+  .rectangulo7 {
+    background-color: #6ac4f1;
+    border: 2px solid #6ac4f1;
+  }
+  .rectangulo8 {
+    background-color: #34dbbc;
+    border: 2px solid #34dbbc;
+  }
+  .rectangulo9 {
+    background-color: #dc1cd2;
+    border: 2px solid #dc1cd2;
+  }
+  .rectangulo10 {
+    background-color: #ee725c;
+    border: 2px solid #ee725c;
+  }
+  .rectangulo11 {
+    background-color: #3460db;
+    border: 2px solid #3460db;
+  }
+  .rectangulo12 {
+    background-color: #34db34;
+    border: 2px solid #34db34;
+  }
+  .rectangulo13 {
+    background-color: #db3434;
+    border: 2px solid #db3434;
+  }
+  .rectangulo14 {
+    background-color: #db7434;
+    border: 2px solid #db7434;
+  }
+  .rectangulo15 {
+    background-color: #d0db34;
+    border: 2px solid #d0db34;
+  }
+  .rectangulo16 {
+    background-color: #db3434;
+    border: 2px solid #db3434;
+  }
+  
+  .rectangulo17 {
+    background-color: #db7434;
+    border: 2px solid #db7434;
+  }
+  
+  .rectangulo18 {
+    background-color: #d0db34;
+    border: 2px solid #d0db34;
+  }
+  
+  .rectangulo19 {
+    background-color: #34db34;
+    border: 2px solid #34db34;
+  }
+  
+  .rectangulo20 {
+    background-color: #3460db;
+    border: 2px solid #3460db;
+  }
+  .rectangulo21 {
+    background-color: #a334db;
+    border: 2px solid #a334db;
+  }
+  
+  .rectangulo22 {
+    background-color: #6ac4f1;
+    border: 2px solid #6ac4f1;
+  }
+  .rectangulo23 {
+    background-color: #34dbbc;
+    border: 2px solid #34dbbc;
+  }
+  .rectangulo24 {
+    background-color: #dc1cd2;
+    border: 2px solid #dc1cd2;
+  }
+  .rectangulo25 {
+    background-color: #ee725c;
+    border: 2px solid #ee725c;
+  }
